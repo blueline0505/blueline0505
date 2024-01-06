@@ -5,7 +5,7 @@
 ## About me  
 - 🔭 I’m currently working as a software developer at TaiDoc Technology Corp.
 - 🌱 Reading my [resume](https://github.com/blueline0505/Resume)
-
+- 🎈 My person [website](https://blueline0505.github.io/meetme-gh-pages/index.html)
 ## Blog Post  
 [![Medium Badge](https://img.shields.io/badge/-@blueline0505-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@blueline0505)](https://medium.com/@blueline0505)
 
