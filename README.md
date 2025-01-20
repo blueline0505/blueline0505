@@ -3,7 +3,7 @@
 </p>  
 
 ## About me  
-- 🔭 I’m currently working as a software developer at TaiDoc Technology Corp.
+- 🔭 I’m currently working as a software developer at E.SUN Commercial Bank, Ltd.
 - 🌱 Reading my [resume](https://github.com/blueline0505/Resume)
 - 🎈 My person [website](https://blueline0505.github.io/meetme-gh-pages/index.html)
 ## Blog Post  
